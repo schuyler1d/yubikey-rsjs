@@ -1,0 +1,6 @@
+node_modules
+Cargo.lock
+index.node
+package-lock.json
+target
+*~
